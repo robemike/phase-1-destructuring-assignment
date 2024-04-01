@@ -25,14 +25,6 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
-// const animalSounds = {
-//   cow: "moo",
-//   horse: "neigh",
-//   sheep: "baa",
-//   pig: "oink",
-//   chicken: "cluck"
-
-// }
 
 const moo = "cow"
 const neigh = "horse"
